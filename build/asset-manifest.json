@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/catfriends-app/static/css/main.03dc5a33.chunk.css",
+    "main.js": "/catfriends-app/static/js/main.8d9cbc7d.chunk.js",
+    "main.js.map": "/catfriends-app/static/js/main.8d9cbc7d.chunk.js.map",
+    "runtime-main.js": "/catfriends-app/static/js/runtime-main.4f96c4bf.js",
+    "runtime-main.js.map": "/catfriends-app/static/js/runtime-main.4f96c4bf.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/catfriends-app/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b8d52fe2.chunk.js": "/catfriends-app/static/js/2.b8d52fe2.chunk.js",
+    "static/js/2.b8d52fe2.chunk.js.map": "/catfriends-app/static/js/2.b8d52fe2.chunk.js.map",
+    "index.html": "/catfriends-app/index.html",
+    "precache-manifest.7201b99a5a3db7e5beb35efd127c1769.js": "/catfriends-app/precache-manifest.7201b99a5a3db7e5beb35efd127c1769.js",
+    "service-worker.js": "/catfriends-app/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/catfriends-app/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.03dc5a33.chunk.css.map": "/catfriends-app/static/css/main.03dc5a33.chunk.css.map",
+    "static/js/2.b8d52fe2.chunk.js.LICENSE.txt": "/catfriends-app/static/js/2.b8d52fe2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/catfriends-app/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f96c4bf.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b8d52fe2.chunk.js",
+    "static/css/main.03dc5a33.chunk.css",
+    "static/js/main.8d9cbc7d.chunk.js"
+  ]
+}
